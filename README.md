@@ -1,4 +1,5 @@
-# 100DaysMLCodeChallenges
+# 100 Days Of ML Code with CITY.AI
+
 ## Code Together with CITY.AI - FREE!! 100 Days of ML Code Challenge
 
 ### Week 1: All Required Basics**
